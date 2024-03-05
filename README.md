@@ -23,11 +23,6 @@ I hope everyone appreciates my take on this challenge.
 - Desktop: [Desktop-Screenshot](./screenshot/screenshot.png)
 - Mobile [Mobile-Screenshot](./screenshot/screenshot-mobile.png)
 
-### Links
-
-- Solution URL: [Solution Code](https://github.com/exploresahil/Frontend-Mentor-News-homepage-solution)
-- Live Site URL: [Live Site](https://exploresahil.github.io/Frontend-Mentor-News-homepage-solution/)
-
 ## My process
 
 I try to keep my code clean and short.
