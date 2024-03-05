@@ -1,6 +1,6 @@
 # Frontend Mentor - News homepage solution
 
-This is a solution to the [News homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [News homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -45,10 +45,3 @@ I like to work in .scss file as it allows CSS nesting.
 ### What I learned
 
 I am working as Front-End Developer and a Brand Designer from a long time. I love coding HTML, SCSS, CSS & JS. And I enjoied this Challenge.
-
-## Author
-
-- Github - [@exploresahil](https://github.com/exploresahil)
-- Frontend Mentor - [@exploresahil](https://www.frontendmentor.io/profile/exploresahil)
-- LinkedIn - [@exploresahil](https://www.linkedin.com/in/exploresahil/)
-- Instagram - [@explore.sahil](https://www.instagram.com/explore.sahil/)
